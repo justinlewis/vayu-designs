@@ -2,7 +2,7 @@
   path: index.html
   section_id: home
 - name: About
-  path: about.html
+  path: vayu-designs/about.html
   section_id: about
 - name: Services
   path: services.html
