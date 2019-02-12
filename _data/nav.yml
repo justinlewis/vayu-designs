@@ -1,5 +1,5 @@
 - name: Home
-  path: index.html
+  path: vayu-designs/index.html
   section_id: home
 - name: About
   path: vayu-designs/about.html
