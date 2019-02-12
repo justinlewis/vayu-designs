@@ -1,0 +1,44 @@
+- avatar: images/profiles/dog-2785066_640.jpg
+  name: Mack Maier
+  position: Founder
+  socials:
+    - link: http://twitter.com
+      icon: twitter
+    - link: http://facebook.com
+      icon: facebook
+  desc:
+    TODO - description
+- avatar: images/profiles/dog-2785074_640.jpg
+  name: Sam Goodhue
+  position: Founder
+  socials:
+    - link: http://twitter.com
+      icon: twitter
+    - link: http://facebook.com
+      icon: facebook
+    - link: http://dribbble.com
+      icon: dribbble
+  desc:
+    TODO - description
+- avatar: images/profiles/dog-2561134_640.jpg
+  name: Michael Fitzgerald
+  position: Founder
+  socials:
+    - link: http://twitter.com
+      icon: twitter
+    - link: http://facebook.com
+      icon: facebook
+    - link: http://tumblr.com
+      icon: tumblr
+  desc:
+    TODO - description
+- avatar: images/profiles/adorable-1851107_640.jpg
+  name: Justin Lewis
+  position: Founder
+  socials:
+    - link: http://twitter.com
+      icon: twitter
+    - link: http://facebook.com
+      icon: facebook
+  desc:
+    TODO - description

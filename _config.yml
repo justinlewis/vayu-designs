@@ -1,0 +1,18 @@
+# Site settings
+title: Vayu Designs
+email: support@vayudesigns.com
+description: > # this means to ignore newlines until "baseurl:"
+  Providing pre-designed and custom soft good solutions to support
+  the growth and brand recognition of your business.
+baseurl: "" # the subpath of your site, e.g. /blog/
+# url: "http://yourdomain.com" # the base hostname & protocol for your site
+twitter_username: vayudesigns
+github_username:
+instagram_username: vayudesigns
+
+# Build settings
+markdown: kramdown
+
+
+paginate: 3
+paginate_path: "blog/page:num"
