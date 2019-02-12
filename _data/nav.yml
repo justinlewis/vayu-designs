@@ -5,10 +5,10 @@
   path: vayu-designs/about.html
   section_id: about
 - name: Services
-  path: services.html
+  path: vayu-designs/services.html
   section_id: services
 - name: Portfolio
-  path: portfolio.html
+  path: vayu-designs/portfolio.html
   section_id: portfolio
   # children:
   #   - name: Portfolio
@@ -16,7 +16,7 @@
     # - name: Portfolio item
     #   path: portfolio-item.html
 - name: Contact
-  path: contact.html
+  path: vayu-designs/contact.html
   section_id: contact
 # - name: Blog
 #   path: blog/
